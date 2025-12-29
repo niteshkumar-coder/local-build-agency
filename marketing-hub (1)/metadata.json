@@ -1,0 +1,5 @@
+{
+  "name": "Marketing Hub",
+  "description": "A high-performance React application for a local marketing and AI agency, featuring a complete admin dashboard, Firestore-ready architecture, and an integrated Gemini-powered AI chatbot.",
+  "requestFramePermissions": []
+}
